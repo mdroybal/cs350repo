@@ -1,11 +1,6 @@
-System Requirements
-
-Python 2.7.12
 
 youtube-dl==2016.10.12
 
-import sys
 
--y libav-tools- 
 
 
